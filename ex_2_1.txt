@@ -1,0 +1,37 @@
+
+
+-------------------------
+
+Read the entire file into a list of tuples: 
+Current:  117  Mb
+Peak:  117  Mb
+-------------------------
+
+-------------------------
+
+Read the entire file into a list of dicts: 
+Current:  206  Mb
+Peak:  206  Mb
+-------------------------
+
+-------------------------
+
+Read the entire file into a list of instances: 
+Current:  162  Mb
+Peak:  162  Mb
+-------------------------
+
+-------------------------
+
+Read the entire file into a list of instances (class Row with slots): 
+Current:  113  Mb
+Peak:  113  Mb
+-------------------------
+
+-------------------------
+
+Read the entire file into a list of named tuples: 
+Current:  3538  Mb
+Peak:  3538  Mb
+-------------------------
+
